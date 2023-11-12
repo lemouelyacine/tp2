@@ -2,48 +2,56 @@
 	"id": "id0",
 	"name":"Mario Bros",
 	"description":"Un petit plombier moustachu",
-	"imageUrl":"/mario.webp"
+	"imageUrl":"/mario.webp",
+	"cardType": "small"
 },
 {
 	"id": "id1",
 	"name":"V",
 	"description":"La cybernétique au service de l'humain",
-	"imageUrl":"/v.webp"
+	"imageUrl":"/v.webp",
+	"cardType": "small"
 },
 {
 	"id": "id2",
 	"name":"Pikachu",
 	"description":"Est-ce vraiment nécessaire de vous le présenter ?",
-	"imageUrl":"/pikachu.png"
+	"imageUrl":"/pikachu.png",
+	"cardType": "large"
 },
 {
 	"id": "id3",
 	"name":"Master Chief",
 	"description":"La peur incarnée des covenants",
-	"imageUrl":"halo.jpeg"
+	"imageUrl":"halo.jpeg",
+	"cardType": "long"
 },
 {
 	"id": "id4",
 	"name":"Ethan Winters",
 	"description":"L'homme malchanceux de Resident Evil",
-	"imageUrl":"ethan.jpeg"
+	"imageUrl":"ethan.jpeg",
+	"cardType": "small"
 },
 {
 	"id": "id5",
 	"name":"Solid Snake",
 	"description":"L'agent secret contre Metal Gear",
-	"imageUrl":"solidSnake.webp"
+	"imageUrl":"solidSnake.webp",
+	"cardType": "small"
 },
 {
 	"id": "id6",
 	"name":"Kratos",
 	"description":"Le papa contre les dieux qui voulait protéger son fils",
-	"imageUrl":"kratos.png"
+	"imageUrl":"kratos.png",
+	"cardType": "small"
 },
 {
 	"id": "id7",
 	"name":"Aloy",
 	"description":"L'héroine à l'arc contre les mécas",
-	"imageUrl":"aloy.webp"
+	"imageUrl":"aloy.webp",
+	"cardType": "small"
 }
 ]
